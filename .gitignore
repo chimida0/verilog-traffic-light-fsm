@@ -1,0 +1,10 @@
+# Временные файлы симуляции
+*.vcd
+*.vvp
+*.log
+
+# Файлы Vivado (если вдруг появятся)
+usage_statistics_webtalk.*
+vivado*.log
+vivado*.jou
+/xsim.dir/
